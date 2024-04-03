@@ -62,9 +62,9 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-![Screenshot 2024-04-03 203510](https://github.com/NaveenKumarV2005/HALF_ADDER_SUBTRACTOR/assets/151476286/d3b208e2-e1d5-4f90-bd4e-8cfcea0d1d1b)
 
 
+![Screenshot 2024-04-03 212113](https://github.com/NaveenKumarV2005/HALF_ADDER_SUBTRACTOR/assets/151476286/f9717b23-c022-4d5a-9ff8-06bfeca9d850)
 
 
 
